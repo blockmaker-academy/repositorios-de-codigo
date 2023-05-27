@@ -41,7 +41,7 @@
 4. Selecciona la rama "main" del repositorio original como la rama "base".
 5. Compara los cambios y asegúrate de que todo esté correcto.
 6. Escribe una descripción breve y descriptiva de los cambios que has realizado.
-7. Haz clic en el botón "Create pull request".
+7. Haz clic en el bcd otón "Create pull request".
 
 ## Tareas
 
